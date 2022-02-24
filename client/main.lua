@@ -1,5 +1,5 @@
-RegisterCommand('mdw', function()
-    msg('Opens the mdw')
+RegisterCommand('factions', function()
+    msg('List all Factions')
 end)
 
 function msg(text)
